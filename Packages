@@ -329,3 +329,41 @@ Author: 34306
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/replaced.png
 Name: Replaced
 
+Package: com.sunshinesong.split-view-pro
+Version: 1.4.0
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5484
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/split-view-pro_1.4.0_iphoneos-arm64.deb
+Size: 1579124
+MD5sum: c0c5d5abfdffb86d96e15da7f9ff9111
+SHA1: 83b30ae28665e2de3ea25269ee80eaa52159c347
+SHA256: 34f2f7d8c677d489e610056ec1f1943799edbb83e2649a263dae9a3103d59b8c
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Icon: https://cdn.jsdelivr.net/gh/SuSuRepo/SuSuRepo.github.io@18ff06670017ce476201654e5f0fa9aeb483acb2/images/svp.png
+Name: split-view-pro
+Ts: sp-sss
+
+Package: xc.lzsxcl.o2pro
+Version: 12.80
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 21760
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/o2Pro_12.80_iphoneos-arm64.deb
+Size: 7714624
+MD5sum: 03e8b503dbb65b4a12edf918912d996a
+SHA1: a2ad69f3a3fd082d915ebf023b0440d173400f0c
+SHA256: 56edb1477cd5e73d3036f200c645e3ba1eb33a6d854336761f701e0615c34bdf
+Section: Tweaks
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2Pro
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
+
+
