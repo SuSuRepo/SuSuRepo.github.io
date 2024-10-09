@@ -381,4 +381,23 @@ Author: 苏苏
 Icon: https://cdn.jsdelivr.net/gh/SuSuRepo/SuSuRepo.github.io@39b37558f21f9bac31dede692cb136a1718ef9c4/CydiaIcon.png
 Name: SuSuTools
 
+Package: xc.lzsxcl.o2pro
+Version: 12.100
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 21692
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/xc.lzsxcl.o2pro_12.100_iphoneos-arm64.deb
+Size: 10479976
+MD5sum: ac3849aa88d8d190e690e955bc084fa5
+SHA1: b8ccb2d4f095bfc9d37359b0681d569db146d586
+SHA256: 6f327c5a2dfe772f1a1d233875407d8faa6a5a5a65a39c80cd63262510eafe58
+Section: Tweaks
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2Pro
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
+
 
