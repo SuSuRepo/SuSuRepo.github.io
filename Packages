@@ -366,4 +366,19 @@ Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
 Name: o2Pro
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
 
+Package: com.susubody.susutools
+Version: 9.9.9
+Architecture: iphoneos-arm64
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/SuSuTools.deb
+Size: 10256
+MD5sum: ff57fe2cc70a06804c6ff896157e8f94
+SHA1: 982f7699a8cf9a945f1bccaedfe8c9f321923584
+SHA256: 8c9a85d1c89dc7a5aaa72604c7ce92a9f3b11d216d67e7c6b9c37c7a3d922bbc
+Section: 系统
+Description: 使用方法：Filza进入/var/mobile/Documents运行SuSuTools.sh
+Author: 苏苏
+Icon: https://cdn.jsdelivr.net/gh/SuSuRepo/SuSuRepo.github.io@39b37558f21f9bac31dede692cb136a1718ef9c4/CydiaIcon.png
+Name: SuSuTools
+
 
