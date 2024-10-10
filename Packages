@@ -400,4 +400,22 @@ Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
 Name: o2Pro
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
 
+Package: susu.chatgpt.as
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Installed-Size: 805
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/susu.chatgpt.as_1.2.2_iphoneos-arm64.deb
+Size: 166068
+MD5sum: 985bb1f49323d322f995e8b1bc86880a
+SHA1: 3f8fe65d4312c9eee265178358b4c88ed4b5813c
+SHA256: a040c1cac3d4305e7fb94fa84bb67803b6683becc3d9251f90bda5919a785c95
+Section: 应用
+Description: 苏苏为阿水AI制作的ios端应用 当前为越狱版
+Tag: purpose::extension
+Author: 苏苏
+Depiction: 苏苏为阿水AI制作的ios端应用 当前为越狱版
+Icon: https://cdn.jsdelivr.net/gh/SuSuRepo/SuSuRepo.github.io@820bf31815ddce13140fbaa12c471377e57799fb/images/6263E5C5-519D-4B94-BBB8-F1D030F050B4.png
+Name: ChatGPT越狱版
+
 
