@@ -469,3 +469,27 @@ Depiction: 狗哥应用降级越狱版
 Icon: https://cdn.jsdelivr.net/gh/SuSuRepo/SuSuRepo.github.io@6a34a2fc99eebf3321a519e4f3f31cf3627f4ead/images/appstore.png
 Name: 应用降级越狱版
 
+Package: com.creaturecoding.tweaksettings
+Version: 1.0.9
+Architecture: iphoneos-arm64
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1064
+Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
+Filename: ./debs/com.creaturecoding.tweaksettings_1.0.9_iphoneos-arm64.deb
+Size: 386636
+MD5sum: f424247a3a3910ac4b71e115a48cb2c5
+SHA1: df0c56ce4a5f42b7ad26f56a0cb3fda9d64323db
+SHA256: 03d9bbff66b960f7d9e6a8e133f87c016ed17587bd290f75e832e2a18b5da9cd
+Section: Applications
+Priority: optional
+Homepage: https://creaturecoding.com/
+Description: Dedicated settings app for tweaks
+Tag: purpose::application, compatible_min::ios10
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=tweaksettings
+Dev: CreatureSurvive
+Icon: file:///var/jb/Applications/TweakSettings.app/icon_large.png
+Name: TweakSettings
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
+
+
