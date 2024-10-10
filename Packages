@@ -418,4 +418,21 @@ Depiction: 苏苏为阿水AI制作的ios端应用 当前为越狱版
 Icon: https://cdn.jsdelivr.net/gh/SuSuRepo/SuSuRepo.github.io@820bf31815ddce13140fbaa12c471377e57799fb/images/6263E5C5-519D-4B94-BBB8-F1D030F050B4.png
 Name: ChatGPT越狱版
 
+Package: com.dao.axon
+Version: 1.5.5
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 692
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: ./debs/com.dao.axon_1.5.5_iphoneos-arm64.deb
+Size: 144564
+MD5sum: e4a7bec80cbf862e406c81d91284b4a6
+SHA1: 8901513fb960298de225fe548a6857855a985098
+SHA256: a18034f56c2bc90c42bf90d2e605d0cfd07550de05f6988b9f4c4612bb22d606
+Description: 锁屏通知聚合插件，根据开源编译/汉化，优化支持iOS16
+Author: Nepeta
+Name: Axon
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
+
 
