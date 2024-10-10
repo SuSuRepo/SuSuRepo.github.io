@@ -512,3 +512,25 @@ Author: PoomSmart
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/camera.png
 Name: 录像暂停 RecordPause
 
+Package: com.ichitaso.hidekbsettings
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Installed-Size: 428
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/HideKBSettings (iOS 11 to 16)_1.0.6_iphoneos-arm64.deb
+Size: 41028
+MD5sum: 8ae15e39bdb1f288f3c198cd83c702f8
+SHA1: 291251b7cecf7d731230e2072e8aa180fa138bbe
+SHA256: 92963d63e8571d4e52687c346fdd523c5316c5140625be0748e77bffbf2c6f09
+Section: Tweaks
+Homepage: https://ichitaso.com/
+Description: Hide "Keyboard Settings" from the globe button switcher
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios16.3.1
+Author: ichitaso <willfeeltips+hks@gmail.com>
+Depiction: https://cydia.ichitaso.com/depiction/hidekbsettings.html
+Dev: ichitaso
+Icon: https://raw.githubusercontent.com/ichitaso/HideKBSettings/master/Preferences/Resources/icon%403x.png
+Name: HideKBSettings (iOS 11 to 16)
+
