@@ -451,3 +451,21 @@ Author: 苏苏
 Icon: https://cdn.jsdelivr.net/gh/SuSuRepo/SuSuRepo.github.io@9a84c5dff14a3922798cb3069fa733019cbb21cc/images/Talkatone.png
 Name: Talkatone
 
+Package: com.netskao.downgradeapp
+Version: 1.1-9
+Architecture: iphoneos-arm64
+Installed-Size: 805
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.netskao.downgradeapp_1.1-9_iphoneos-arm64.deb
+Size: 438092
+MD5sum: 90642029be863a09f98df0a88412b6ea
+SHA1: 266d940df467053023bcd0780712bbea228c702c
+SHA256: a0985592eba1c5e282d4d3a79d5fd286869b43c1f97eecaa46202a08de74325f
+Section: 应用
+Description: 狗哥应用降级越狱版
+Tag: purpose::extension
+Author: 应用降级
+Depiction: 狗哥应用降级越狱版
+Icon: https://cdn.jsdelivr.net/gh/SuSuRepo/SuSuRepo.github.io@6a34a2fc99eebf3321a519e4f3f31cf3627f4ead/images/appstore.png
+Name: 应用降级越狱版
+
