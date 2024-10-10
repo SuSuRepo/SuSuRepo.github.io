@@ -426,13 +426,11 @@ Installed-Size: 692
 Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
 Filename: ./debs/com.dao.axon_1.5.5_iphoneos-arm64.deb
-Size: 144564
-MD5sum: e4a7bec80cbf862e406c81d91284b4a6
-SHA1: 8901513fb960298de225fe548a6857855a985098
-SHA256: a18034f56c2bc90c42bf90d2e605d0cfd07550de05f6988b9f4c4612bb22d606
+Size: 144620
+MD5sum: fdf635f49a415d66a0db92fe631cd0a9
+SHA1: 728c76c66b9728ac1a37fd8143760728f9e042fb
+SHA256: 5df06af84656992a623cc71664b1989ba94853d682a343beea2c53828817082e
 Description: 锁屏通知聚合插件，根据开源编译/汉化，优化支持iOS16
 Author: Nepeta
 Name: Axon
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
 
