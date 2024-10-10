@@ -434,3 +434,20 @@ Description: 锁屏通知聚合插件，根据开源编译/汉化，优化支持
 Author: Nepeta
 Name: Axon
 
+Package: com.susu.talkatone
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 11056
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.susu.talkatone_1.0.1_iphoneos-arm64.deb
+Size: 2528
+MD5sum: cd8ff2584474e9bb53d41282da3222ee
+SHA1: 27b6423ceb7d04b1cebc8d46f905ccd327057206
+SHA256: 501be34fb3fe7c81c62985357813bf4aa09c8d05de6e716c30e4c2bc52bd9e44
+Section: Tweaks
+Description: Talkatone去广告
+Author: 苏苏
+Icon: https://cdn.jsdelivr.net/gh/SuSuRepo/SuSuRepo.github.io@9a84c5dff14a3922798cb3069fa733019cbb21cc/images/Talkatone.png
+Name: Talkatone
+
