@@ -534,3 +534,18 @@ Dev: ichitaso
 Icon: https://raw.githubusercontent.com/ichitaso/HideKBSettings/master/Preferences/Resources/icon%403x.png
 Name: HideKBSettings (iOS 11 to 16)
 
+Package: com.susu.alwaysdark
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/AlwaysDark.deb
+Size: 17924
+MD5sum: 69900ffe54a352046753af304b239091
+SHA1: c2a2fd1f343f9be6ab4b3ae029516c59c605e38c
+SHA256: a869609bf249cc9ad9ca58646f691da91b69d9857de95a42a9a11faab150be7e
+Section: 插件
+Description: 始终在暗/亮模式下运行特定应用程序。
+Author: KingPuffdaddi
+Name: AlwaysDark
+
