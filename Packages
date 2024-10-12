@@ -313,22 +313,6 @@ Icon: https://siieo.github.io/sileodepictions/CocoaTop/icon.png
 Name: CocoaTop64
 Sileodepiction: https://siieo.github.io/sileodepictions/CocoaTop/CocoaTop.json
 
-Package: xyz.susubody.replaced
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: susubody
-Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/Replaced_1.0_iphoneos-arm64.deb
-Size: 3328
-MD5sum: 2dccb0eb202562358596e66b87cb3eeb
-SHA1: dc5ca6b165e7356b26445778669e238525b880e9
-SHA256: f7f7b0ad371507fceff5a9e40ba281e55cdea741ad87e5fdcf248231ca7bcaa0
-Section: Tweaks
-Description: Remove the 'Unknown Part' or 'Parts and Service History' messages in the About section of the device settings for iOS 15+.
-Author: 34306
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/replaced.png
-Name: Replaced
-
 Package: com.sunshinesong.split-view-pro
 Version: 1.4.0
 Architecture: iphoneos-arm64
@@ -563,4 +547,19 @@ Description: 使用方法：Filza进入/var/mobile/Documents运行SuSuTools.sh
 Author: 苏苏
 Icon: https://cdn.jsdelivr.net/gh/SuSuRepo/SuSuRepo.github.io@39b37558f21f9bac31dede692cb136a1718ef9c4/CydiaIcon.png
 Name: SuSuTools
+
+Package: com.susu.battery
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.susu.battery_1.0_iphoneos-arm64.deb
+Size: 7356
+MD5sum: 14abf55ec55ccd35b89df783bbee17f5
+SHA1: e2227f549a691db9049c4de4906e85c64e9b0aea
+SHA256: 0c43a7e8b918cdbac9280386f7e7b0b9e547208de036676a23ca8e079bf985e6
+Section: 系统
+Description: 用于修复更换三方电池后 设置中该死的提示 当前插件可以修复设置中为原装显示状态
+Icon: https://cdn.jsdelivr.net/gh/SuSuRepo/SuSuRepo.github.io@ce8eca651e85dcc0de34020773378540b139703d/images/Charging%20Animation%20Play%20%26%20Fun-iOS-256x256.png
+Name: BatteryRepair
 
