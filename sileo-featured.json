@@ -4,7 +4,7 @@
  "itemCornerRadius": 10,
  "banners": [
   {
-   "url": "https://github.com/SuSuRepo/SuSuRepo.github.io/blob/e2faf0e7d1221d087b2893a9e8ef637ea8cc7126/CydiaIcon.png",
+   "url": "https://cdn.jsdelivr.net/gh/SuSuRepo/SuSuRepo.github.io@ec582212aa29be1ede9d4ccf26fded95506c1a7b/CydiaIcon.png",
    "title": "",
    "package": "com.opa334.dopamine.trollstore",
    "hideShadow": true
