@@ -581,3 +581,19 @@ Depiction: 苏苏为阿水AI制作的ios端应用 当前为越狱版
 Icon: https://cdn.jsdelivr.net/gh/SuSuRepo/SuSuRepo.github.io@820bf31815ddce13140fbaa12c471377e57799fb/images/6263E5C5-519D-4B94-BBB8-F1D030F050B4.png
 Name: ChatGPT越狱版
 
+Package: com.susu.photos
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 712
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/com.susu.photos_1.0_iphoneos-arm64.deb
+Size: 4108
+MD5sum: fcfa27c132b4d829beba44df23e4087b
+SHA1: fc6aff146f10042f86501263507bda26ef16a9ea
+SHA256: edff31e7e167f4e7b5963b7cec4a834a3ec8a2bc041947e084f53c44aaf2571b
+Section: 系统
+Author: 苏苏
+Icon: https://cdn.jsdelivr.net/gh/SuSuRepo/SuSuRepo.github.io@1c198de4c3d79dafbaec554d03e41b5366873dac/images/4542ABCC-CA7D-4D6F-8AED-F5C3503B1C05.png
+Name: 相册增强
+
